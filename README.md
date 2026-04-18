@@ -5,6 +5,10 @@ This is a software prototype of a Smart Medicine Dispensing & Monitoring System.
 It helps users remember to take medicines on time and track their medication.
  
 ---
+Live Demo:
+ https://suhani-ai-dev.github.io/Innovation_Practicum--smart-medicine-reminder/
+
+ ---
  
 ## 🚀 Features
 - ⏰ Medicine scheduling
