@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smart Medicine System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ 
+<div class="container">
+  <h1>💊 Smart Medicine Reminder</h1>
+ 
+  <input type="text" id="name" placeholder="Medicine Name">
+  <input type="time" id="time">
+  <input type="text" id="dose" placeholder="Dose">
+ 
+  <button onclick="addMedicine()">Add Medicine</button>
+ 
+  <h2>📋 Schedule</h2>
+  <ul id="list"></ul>
+ 
+  <h2>📊 Dashboard</h2>
+  <p>Total: <span id="total">0</span></p>
+  <p>Taken: <span id="taken">0</span></p>
+  <p>Missed: <span id="missed">0</span></p>
+</div>
+ 
+<script src="script.js"></script>
+</body>
+</html>
+ 
